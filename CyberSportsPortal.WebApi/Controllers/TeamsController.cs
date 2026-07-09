@@ -34,6 +34,6 @@ public class TeamsController : ControllerBase
     public async Task<int> GetTeamIncomeForYear(int teamId, int year)
     {
         var team = await _teamsService.GetTeamByIdAsync(teamId);
-        return _teamTasksService.GetTeamIncomeForYear(team, year);
+        return _teamTasksService.GetTeamIncomeForYear(teamId, year);
     }
 }
