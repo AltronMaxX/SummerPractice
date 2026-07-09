@@ -1,0 +1,27 @@
+# .NET
+bin/
+obj/
+out/
+*.user
+*.suo
+*.userosscache
+*.log
+.nupkg
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+ RiderProjectSettings.json
+
+# Visual Studio
+.vs/
+*.vspscc
+*.vssscc
+
+# Build results
+**/bin/
+**/obj/
+
+# Папки с артефактами
+artifacts/
+publish/
