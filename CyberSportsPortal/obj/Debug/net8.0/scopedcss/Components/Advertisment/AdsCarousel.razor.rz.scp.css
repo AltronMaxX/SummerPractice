@@ -1,0 +1,16 @@
+.footer-card[b-c2vjzoeivh] {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+    .footer-card > video[b-c2vjzoeivh] {
+        width: 250px;
+        height: auto;
+    }

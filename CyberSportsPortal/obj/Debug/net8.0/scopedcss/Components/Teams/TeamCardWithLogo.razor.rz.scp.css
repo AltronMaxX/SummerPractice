@@ -1,0 +1,19 @@
+.team-card-container[b-f3kuemdqqe] {
+    height: 200px;
+    padding: 0px;
+}
+
+.team-card-logo[b-f3kuemdqqe] {
+    height:80%;
+    vertical-align: middle;
+}
+
+.team-logo[b-f3kuemdqqe] {
+    max-height:100%;
+    vertical-align:middle;
+}
+
+.team-name-container[b-f3kuemdqqe] {
+    height:20%;
+    line-height:40px;
+}

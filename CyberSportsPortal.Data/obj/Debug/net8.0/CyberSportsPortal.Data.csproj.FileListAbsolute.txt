@@ -1,0 +1,17 @@
+C:\Users\roman.kitar\Downloads\practice-main\practice-main\CyberSportsPortal\CyberSportsPortal.Data\bin\Debug\net8.0\CyberSportsPortal.Data.deps.json
+C:\Users\roman.kitar\Downloads\practice-main\practice-main\CyberSportsPortal\CyberSportsPortal.Data\bin\Debug\net8.0\CyberSportsPortal.Data.runtimeconfig.json
+C:\Users\roman.kitar\Downloads\practice-main\practice-main\CyberSportsPortal\CyberSportsPortal.Data\bin\Debug\net8.0\CyberSportsPortal.Data.dll
+C:\Users\roman.kitar\Downloads\practice-main\practice-main\CyberSportsPortal\CyberSportsPortal.Data\bin\Debug\net8.0\CyberSportsPortal.Data.pdb
+C:\Users\roman.kitar\Downloads\practice-main\practice-main\CyberSportsPortal\CyberSportsPortal.Data\bin\Debug\net8.0\CyberSportsPortal.Data.Model.dll
+C:\Users\roman.kitar\Downloads\practice-main\practice-main\CyberSportsPortal\CyberSportsPortal.Data\bin\Debug\net8.0\CyberSportsPortal.Data.Model.pdb
+C:\Users\roman.kitar\Downloads\practice-main\practice-main\CyberSportsPortal\CyberSportsPortal.Data\obj\Debug\net8.0\CyberSportsPortal.Data.csproj.AssemblyReference.cache
+C:\Users\roman.kitar\Downloads\practice-main\practice-main\CyberSportsPortal\CyberSportsPortal.Data\obj\Debug\net8.0\CyberSportsPortal.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman.kitar\Downloads\practice-main\practice-main\CyberSportsPortal\CyberSportsPortal.Data\obj\Debug\net8.0\CyberSportsPortal.Data.AssemblyInfoInputs.cache
+C:\Users\roman.kitar\Downloads\practice-main\practice-main\CyberSportsPortal\CyberSportsPortal.Data\obj\Debug\net8.0\CyberSportsPortal.Data.AssemblyInfo.cs
+C:\Users\roman.kitar\Downloads\practice-main\practice-main\CyberSportsPortal\CyberSportsPortal.Data\obj\Debug\net8.0\CyberSportsPortal.Data.csproj.CoreCompileInputs.cache
+C:\Users\roman.kitar\Downloads\practice-main\practice-main\CyberSportsPortal\CyberSportsPortal.Data\obj\Debug\net8.0\CyberSpo.9B53FA44.Up2Date
+C:\Users\roman.kitar\Downloads\practice-main\practice-main\CyberSportsPortal\CyberSportsPortal.Data\obj\Debug\net8.0\CyberSportsPortal.Data.dll
+C:\Users\roman.kitar\Downloads\practice-main\practice-main\CyberSportsPortal\CyberSportsPortal.Data\obj\Debug\net8.0\refint\CyberSportsPortal.Data.dll
+C:\Users\roman.kitar\Downloads\practice-main\practice-main\CyberSportsPortal\CyberSportsPortal.Data\obj\Debug\net8.0\CyberSportsPortal.Data.pdb
+C:\Users\roman.kitar\Downloads\practice-main\practice-main\CyberSportsPortal\CyberSportsPortal.Data\obj\Debug\net8.0\CyberSportsPortal.Data.genruntimeconfig.cache
+C:\Users\roman.kitar\Downloads\practice-main\practice-main\CyberSportsPortal\CyberSportsPortal.Data\obj\Debug\net8.0\ref\CyberSportsPortal.Data.dll

@@ -1,0 +1,203 @@
+/* /Components/Advertisment/AdsCarousel.razor.rz.scp.css */
+.footer-card[b-c2vjzoeivh] {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+    .footer-card > video[b-c2vjzoeivh] {
+        width: 250px;
+        height: auto;
+    }
+/* /Components/Teams/TeamCardWithLogo.razor.rz.scp.css */
+.team-card-container[b-f3kuemdqqe] {
+    height: 200px;
+    padding: 0px;
+}
+
+.team-card-logo[b-f3kuemdqqe] {
+    height:80%;
+    vertical-align: middle;
+}
+
+.team-logo[b-f3kuemdqqe] {
+    max-height:100%;
+    vertical-align:middle;
+}
+
+.team-name-container[b-f3kuemdqqe] {
+    height:20%;
+    line-height:40px;
+}
+/* /Components/Teams/TeamHeader.razor.rz.scp.css */
+.team-header-text[b-6qm25dqt05] {
+    line-height:200px; 
+    font-weight:bold;
+    font-size:50px;
+}
+
+.team-header-logo[b-6qm25dqt05] {
+    height:200px;
+}
+/* /Components/Teams/TeamIncome.razor.rz.scp.css */
+.col-md-8 > p[b-pxwrugtytd] {
+    margin-bottom: 0px;
+    font-size:24px;
+    font-weight:bold;
+}
+/* /Components/Tournaments/TeamParticipantsCard.razor.rz.scp.css */
+p[b-hpv4toynlp] {
+    margin-bottom: 0px;
+    font-size:24px;
+    font-weight:bold;
+}
+/* /Components/Tournaments/TournamentHeader.razor.rz.scp.css */
+.tournament-header-text[b-v5v75y5ncx] {
+    line-height:200px; 
+    font-weight:bold;
+    font-size:50px;
+}
+
+.tournament-header-logo[b-v5v75y5ncx] {
+    height:200px;
+}
+/* /Shared/MainLayout.razor.rz.scp.css */
+.page[b-4973uv33th] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.main[b-4973uv33th] {
+    flex: 1;
+}
+
+.sidebar[b-4973uv33th] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+.top-row[b-4973uv33th] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-4973uv33th]  a, .top-row .btn-link[b-4973uv33th] {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+    }
+
+    .top-row a:first-child[b-4973uv33th] {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth)[b-4973uv33th] {
+        display: none;
+    }
+
+    .top-row.auth[b-4973uv33th] {
+        justify-content: space-between;
+    }
+
+    .top-row a[b-4973uv33th], .top-row .btn-link[b-4973uv33th] {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-4973uv33th] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-4973uv33th] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-4973uv33th] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .main > div[b-4973uv33th] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+/* /Shared/NavMenu.razor.rz.scp.css */
+.navbar-toggler[b-z37xdtg6cs] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.top-row[b-z37xdtg6cs] {
+    height: 3.5rem;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.navbar-brand[b-z37xdtg6cs] {
+    font-size: 1.1rem;
+}
+
+.oi[b-z37xdtg6cs] {
+    width: 2rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+}
+
+.nav-item[b-z37xdtg6cs] {
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+}
+
+    .nav-item:first-of-type[b-z37xdtg6cs] {
+        padding-top: 1rem;
+    }
+
+    .nav-item:last-of-type[b-z37xdtg6cs] {
+        padding-bottom: 1rem;
+    }
+
+    .nav-item[b-z37xdtg6cs]  a {
+        color: #d7d7d7;
+        border-radius: 4px;
+        height: 3rem;
+        display: flex;
+        align-items: center;
+        line-height: 3rem;
+    }
+
+.nav-item[b-z37xdtg6cs]  a.active {
+    background-color: rgba(255,255,255,0.25);
+    color: white;
+}
+
+.nav-item[b-z37xdtg6cs]  a:hover {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-z37xdtg6cs] {
+        display: none;
+    }
+
+    .collapse[b-z37xdtg6cs] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+}
