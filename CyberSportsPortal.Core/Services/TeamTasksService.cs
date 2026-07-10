@@ -22,7 +22,9 @@ public class TeamTasksService(CyberSportsContext context)
                     var place = result.Place.GetValueOrDefault(0);
                     if  (place == 0)
                         continue;
-                    income += result.Tournament.TournamentPrizes.ToList()[place - 1].Prize;
+                    income += result.Tournament.TournamentPrizes
+                        .First(x => x.Place == place)
+                        .Prize;
                 }
             }
         }
